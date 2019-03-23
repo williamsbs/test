@@ -1,0 +1,24 @@
+{
+  "name": "ex_station_f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "is-empty": "^1.2.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.19",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.10",
+    "uniqid": "^5.0.3"
+  }
+}
